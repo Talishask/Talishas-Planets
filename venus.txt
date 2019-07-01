@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi Talisha!
+=======
+This planet is closer to the sun compared to mars
+
+>>>>>>> a05f749fe37c548577c4334a7bf109bc4a6e09fb
